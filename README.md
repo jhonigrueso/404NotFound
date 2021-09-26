@@ -36,7 +36,7 @@
 
 ## Overview
 
-<img src="https://i.ibb.co/jMpdZ87/screely.png" alt="screely" border="0">
+<img src="https://i.ibb.co/jMpdZ87/screely.png" alt="screely" style="max-width: 100%;">
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
