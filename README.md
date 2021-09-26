@@ -40,11 +40,14 @@
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-   IN THE FOLLOWING LINK YOU CAN SEE MY SITE CREATED  <a href="https://{your-demo-link.your-domain}">https://not-found404.netlify.app/</a>
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- Where can I see your demo? -> 
+   In The Following Link You Can See My Site Created : <a href="https://{your-demo-link.your-domain}">https://not-found404.netlify.app/</a>
+- What was your experience? -> 
+   it was something very satisfying and pleasant
+- What have you learned/improved? -> 
+   improve much more my way of layout a site with a sketch already made and also my way of copying and pasting.
+- Your wisdom? :) ->
+ "if you can imagine, you can program it there is nothing impossible"
 
 ### Built With
 
