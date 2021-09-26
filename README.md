@@ -36,7 +36,7 @@
 
 ## Overview
 
-![https://ibb.co/mqxmFRQ](https://ibb.co/mqxmFRQ)
+<img src="https://i.ibb.co/jMpdZ87/screely.png" alt="screely" border="0">
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
