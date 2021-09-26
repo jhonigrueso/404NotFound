@@ -67,6 +67,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://yonnigrueso.000webhostapp.com/index.html)
-- GitHub [@your-username](https://@jhonigrueso)
-- Twitter [@your-twitter](https://twitter.com/Jhoni2002)
+- Website [my portfolio of projects](https://yonnigrueso.000webhostapp.com/index.html)
+- GitHub [@JhoniGrueso](https://github.com/jhonigrueso)
+- Twitter [@JhoniGrueso](https://twitter.com/Jhoni2002)
