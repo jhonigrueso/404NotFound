@@ -61,4 +61,4 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 - Website [my portfolio of projects](https://yonnigrueso.000webhostapp.com/index.html)
 - GitHub [@JhoniGrueso](https://github.com/jhonigrueso)
-- Twitter [@JhoniGrueso](https://twitter.com/Jhoni2002)
+- Twitter [@Jhoni2002](https://twitter.com/Jhoni2002)
