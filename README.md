@@ -35,7 +35,7 @@
 <!-- OVERVIEW -->
 
 ## Overview
-<p><img src="https://i.ibb.co/jMpdZ87/screely.png" style="max-width: 100%;"></p>
+<p align="center"><img src="https://i.ibb.co/jMpdZ87/screely.png" style="max-width: 100%;"></p>
 
 - Where can I see your demo? -> 
    In The Following Link You Can See My Site Created : <a href="https://{your-demo-link.your-domain}">https://not-found404.netlify.app/</a>
