@@ -27,7 +27,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Built With](#built-with)
+  - [Built With](#built-with) HTML AND CSS
 - [Features](#features)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
