@@ -1,0 +1,171 @@
+/* fuente de Space Mono */
+
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+/* fuente de inconsolata */
+
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@700&display=swap');
+/* 404 not found */
+
+.titulo_superior {
+  position: absolute;
+  width: 133px;
+  height: 25px;
+  left: 77px;
+  top: 40px;
+  font-family: 'Inconsolata', monospace;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 25px;
+  letter-spacing: -0.08em;
+  text-transform: uppercase;
+  color: #333333;
+}
+
+.scarecrow {
+  position: absolute;
+  left: 5.35%;
+  right: 57.21%;
+  top: 24.54%;
+  bottom: 37.11%;
+}
+
+.scarecrow img {
+  height: 414.24px;
+  width: 539.22px;
+  border-radius: 0px;
+}
+
+.titulo_principal {
+  position: absolute;
+  width: 586px;
+  height: 190px;
+  left: 735px;
+  top: 170px;
+  font-family: 'Space Mono', monospace;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 64px;
+  line-height: 95px;
+  letter-spacing: -0.035em;
+  /* Gray 1 */
+  color: #333333;
+}
+
+.texto {
+  position: absolute;
+  width: 381px;
+  height: 108px;
+  left: 736px;
+  top: 450px;
+  font-family: 'Space Mono', monospace;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 36px;
+  letter-spacing: -0.035em;
+  /* Gray 2 */
+  color: #4F4F4F;
+}
+
+.boton {
+  position: absolute;
+  width: 216px;
+  height: 68px;
+  left: 740px;
+  top: 640px;
+  background: #333333;
+}
+
+.boton a {
+  font-family: 'Space Mono', monospace;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 21px;
+  letter-spacing: -0.035em;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
+footer {
+  position: absolute;
+  width: 287px;
+  height: 17px;
+  left: 800px;
+  top: 935px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+  color: #BDBDBD;
+}
+
+@media screen and (max-width: 760px) {
+  .titulo_superior {
+    position: absolute;
+    width: 133px;
+    height: 25px;
+    left: 24px;
+    top: 10px;
+  }
+  .scarecrow {
+    left: 11.73%;
+    right: 11.78%;
+    top: 14%;
+    bottom: 65.29%;
+  }
+  .scarecrow img {
+    height: 250px;
+    width: 300px;
+    border-radius: 0px;
+  }
+  .titulo_principal {
+    width: 350px;
+    height: 142px;
+    left: 24px;
+    top: 407px;
+    font-size: 48px;
+    line-height: 71px;
+  }
+  .texto {
+    width: 328px;
+    height: 81px;
+    left: 23px;
+    top: 600px;
+    font-family: 'Space Mono', monospace;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 27px;
+  }
+  .boton {
+    position: absolute;
+    width: 216px;
+    height: 68px;
+    left: 24px;
+    top: 756px;
+    /* Gray 1 */
+    background: #333333;
+  }
+  .boton a {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 21px;
+  }
+  footer {
+    width: 287px;
+    height: 17px;
+    left: 46px;
+    top: 908px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+  }
+}
